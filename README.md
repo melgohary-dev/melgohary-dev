@@ -1,37 +1,94 @@
-# 👋 Hi, I'm Mohamed Elgohary
+# Mohamed Elgohary
 
-**Senior Front-End Engineer** · React · Next.js (App Router) · TypeScript (Advanced) · GraphQL · Zustand · Jest · CI/CD
+### Senior Front-End Engineer
+
+I build scalable web applications and complex product experiences with
+**React, TypeScript, and Next.js**.
+
+My main areas of interest are:
+
+- Scalable Front-End Architecture
+- Offline-First Applications
+- High-Performance React
+- SaaS & ERP Systems
+- Desktop Applications with Electron
+- Local-First Data & Synchronization
+- AI-Powered Product Experiences
+
+## Tech Stack
+
+### Frontend
+
+React · TypeScript · Next.js · Vite · Zustand · Redux Toolkit
+TanStack Query · GraphQL · Ant Design · Tailwind CSS
+
+### Architecture
+
+Offline-First · Local-First · Custom Sync Engines
+Outbox Pattern · Multi-Tab Synchronization
+PWA · Service Workers · Electron · WebUSB
+
+### Backend
+
+Node.js · Express · Django · REST APIs · GraphQL
+
+### Databases
+
+SQLite · SQLite/WASM · MySQL · MongoDB
+
+### Engineering
+
+GitHub Actions · Turborepo · Monorepos · Jest · Cypress
 
 ---
 
-### 🏢 About Me
+## Featured Projects
 
-I architect **high-scale SaaS platforms** and AI-powered enterprise tools, turning complex requirements into performant, maintainable experiences.
+### Offline-First POS
 
-- ⚡ **Performance**: Boosted a corporate LXP by **60%** through advanced rendering optimization and Core Web Vitals tuning.
-- 🧠 **State Management**: Expert in client-state (**Zustand**) and server-state (**React Query / Apollo GraphQL**).
-- 🧪 **Quality**: Implement robust **Jest** unit tests to ensure zero-regression deployments.
-- 🌐 **Modern Stack**: Deep experience with **Next.js 14 App Router** (Server Components, Server Actions) and **GraphQL**.
-- 🛠️ **Currently Building**: A **reactive data library** to handle complex, real-time state synchronization with minimal overhead.
+An offline-first Point of Sale architecture built with:
 
----
+React · TypeScript · SQLite/WASM · Electron · GraphQL
 
-### 🛠️ Tech Stack
+Features:
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React 18, Next.js 14 (App Router), TypeScript (Advanced), Tailwind CSS, Ant Design |
-| **State & Data** | Zustand, Redux Toolkit, React Query, Apollo Client (GraphQL) |
-| **Testing** | Jest, React Testing Library |
-| **CI/CD & Backend** | GitHub Actions, Node.js, Express, MongoDB, REST APIs |
+- Local-first data persistence
+- Offline mutation queue
+- Background synchronization
+- Live queries
+- Multi-platform architecture
+- Pluggable data drivers
 
 ---
 
-### 🚀 Let's Connect
+### Custom State Management System
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melgohary-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melgohary.dev@gmail.com)
+A TypeScript-based state management system designed around:
+
+- Batching
+- Persistence
+- Selectors
+- Hooks
+- Store registries
+- Optimized subscriptions
 
 ---
 
-⚡ *"Write code for humans, optimize for machines."*
+### Enterprise SaaS / ERP
+
+Experience building complex business applications including:
+
+- Learning platforms
+- ERP systems
+- Financial modules
+- Drag-and-drop builders
+- Administrative dashboards
+- AI-powered product features
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/melgohary-dev
+- GitHub: https://github.com/melgohary-dev
+- Email: melgohary.dev@gmail.com
