@@ -5,6 +5,8 @@
 I build scalable web applications and complex product experiences with
 **React, TypeScript, and Next.js**.
 
+**Portfolio:** https://melgohary-dev.github.io/portfolio/
+
 My main areas of interest are:
 
 - Scalable Front-End Architecture
@@ -26,19 +28,19 @@ TanStack Query · GraphQL · Ant Design · Tailwind CSS
 
 Offline-First · Local-First · Custom Sync Engines
 Outbox Pattern · Multi-Tab Synchronization
-PWA · Service Workers · Electron · WebUSB
+PWA · Service Workers
 
 ### Backend
 
-Node.js · Express · Django · REST APIs · GraphQL
+Node.js · Express · REST APIs · GraphQL
 
 ### Databases
 
-SQLite · SQLite/WASM · MySQL · MongoDB
+SQLite · PostgreSQL · MySQL · MongoDB
 
 ### Engineering
 
-GitHub Actions · Turborepo · Monorepos · Jest · Cypress
+GitHub Actions · Turborepo · Monorepos · Jest · Vitest · MSW · Playwright · Docker
 
 ---
 
@@ -48,7 +50,7 @@ GitHub Actions · Turborepo · Monorepos · Jest · Cypress
 
 An offline-first Point of Sale architecture built with:
 
-React · TypeScript · SQLite/WASM · Electron · GraphQL
+React · TypeScript · SQLite · Electron · GraphQL
 
 Features:
 
